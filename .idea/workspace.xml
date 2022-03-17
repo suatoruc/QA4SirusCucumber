@@ -4,78 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6887f0c1-5a75-416e-b4b9-2894ce76bfca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/GMIBankTextData" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/GMIBankTextData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/utilities/WriteToText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/utilities/WriteToText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batc44API/target/test-classes/get_http_request/day015/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/target/test-classes/get_http_request/day015/Country.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batc44API/target/test-classes/get_http_request/day015/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/target/test-classes/get_http_request/day015/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batc44API/target/test-classes/get_http_request/day015/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/target/test-classes/get_http_request/day015/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../batc44API/target/test-classes/utilities/WriteToText.class" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/target/test-classes/utilities/WriteToText.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/pages/AutomationPracticePages.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/pages/AutomationPracticePages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/pages/DemoQaPages.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/pages/DemoQaPages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/stepdefinitions/AutomationPracticeStepDefinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/stepdefinitions/AutomationPracticeStepDefinations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/stepdefinitions/DemoQaStepDefinitons.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/java/stepdefinitions/DemoQaStepDefinitons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/resources/features/AutomationPracticeStepDefinations.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/resources/features/AutomationPracticeStepDefinations.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/resources/features/US1014_demoQADinamikElementler.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../com.CucumberBatch44/src/test/resources/features/US1014_demoQADinamikElementler.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Homeworks/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Homeworks/Q11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q11_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q11_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/Practice/Q9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C01_TestBaseKullanım.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C01_TestBaseKullanım.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C02_MouseActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C02_MouseActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C03_MouseActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C03_MouseActions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C04_DrugAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C04_DrugAndDrop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C05KeyboardBaseAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C05KeyboardBaseAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C06.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day012/C06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day015/C02_screenShotWebElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/day015/C02_screenShotWebElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/tekrarCalismalari/C08.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/tests/tekrarCalismalari/C08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/utilities/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/src/test/java/utilities/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/target/test-classes/tests/day015/C02_screenShotWebElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/target/test-classes/tests/day015/C02_screenShotWebElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/target/test-classes/tests/day015/C05_JsExecuterScrollIntoView.class" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/target/test-classes/tests/day015/C05_JsExecuterScrollIntoView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../com.TestNGBatch44/target/test-classes/utilities/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../com.TestNGBatch44/target/test-classes/utilities/TestBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ortakFrameWork/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/configration.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/src/test/java/pages/ornek.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/src/test/java/runners/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/src/test/java/stepdefinations/Hooks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/src/test/java/utilities/ConfigReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/src/test/java/utilities/Driver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ortakFrameWork/src/test/java/utilities/ReUsableMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceQuestion/src/test/java/C01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceQuestion/src/test/java/C01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceQuestion/src/test/java/Pages/AmazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceQuestion/src/test/java/Pages/AmazonPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceQuestion/src/test/java/Utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceQuestion/src/test/java/Utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceQuestion/src/test/java/tests/amazonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceQuestion/src/test/java/tests/amazonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceQuestion/src/test/java/tests/yeni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceQuestion/src/test/java/tests/yeni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practiceQuestion/target/test-classes/C01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../practiceQuestion/target/test-classes/C01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/configration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/configration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Pages/TrendyolPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Pages/TrendyolPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Pages/amazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Pages/amazonPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Pages/sahibindenPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Pages/sahibindenPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Utilities/configReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/Utilities/configReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/java.rar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/tests/C01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/tests/C01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/tests/amazonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/tests/amazonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/tests/sahibindenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yeniFrameWorkCalimasi/src/test/java/tests/sahibindenTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="6887f0c1-5a75-416e-b4b9-2894ce76bfca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,6 +42,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
