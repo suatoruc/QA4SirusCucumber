@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6887f0c1-5a75-416e-b4b9-2894ce76bfca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Country.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/GMIBankTextData" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/GMIBankTextData" afterDir="false" />
@@ -81,6 +83,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -108,9 +115,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
@@ -138,7 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647525973172</updated>
       <workItem from="1647525980230" duration="9699000" />
-      <workItem from="1647538597944" duration="329000" />
+      <workItem from="1647538597944" duration="1448000" />
     </task>
     <servers />
   </component>
