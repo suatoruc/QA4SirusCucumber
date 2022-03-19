@@ -12,17 +12,17 @@ public class ConfigReader {
    static {
        String path="configration.properties";
        try {
-       FileInputStream fileInputStream = new FileInputStream(path);
-                  properties =new Properties();
-                 properties.load(fileInputStream);
-                 fileInputStream.close();
+           FileInputStream fileInputStream = new FileInputStream(path);
+           properties = new Properties();
+           properties.load(fileInputStream);
+           fileInputStream.close();
 
+       } catch (FileNotFoundException e) {
+           e.printStackTrace();
        } catch (IOException e) {
            e.printStackTrace();
        }
-
    }
-
    public static String getProperty(String key){
 
        return properties.getProperty(key);

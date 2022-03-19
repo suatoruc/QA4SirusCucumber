@@ -2,6 +2,9 @@ package utilities;
 
 
 import org.apache.commons.io.FileUtils;
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -9,11 +12,10 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.time.Duration;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
 public class ReUsableMethods {
 
@@ -121,6 +123,89 @@ public static void scrollToWebelementVisible(WebElement webElement){
    return obje.until(ExpectedConditions.visibilityOfElementLocated(locater));
     }
 
+
+    public static Map<String,String> mapOlustur(String path, String sayfaAdi) {
+
+        Map<String,String>excelMap=new HashMap<>();
+        Workbook workbook = null;
+
+        //ilk olarak excel'e ulaşalım
+        try {
+            FileInputStream fis=new FileInputStream(path);
+            workbook= WorkbookFactory.create(fis);
+
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        String key="";
+        String value="";
+
+        int satirSayisi=workbook.getSheet(sayfaAdi).getLastRowNum();
+        for (int i = 0; i <=satirSayisi ; i++) {
+
+            // 2. adım tablodaki hücreleri map'e uygun hale dönüştürmek
+            key=workbook.getSheet(sayfaAdi).getRow(i).getCell(0).toString();
+            value=workbook.getSheet(sayfaAdi).getRow(i).getCell(1).toString()+
+                    ", "+workbook.getSheet(sayfaAdi).getRow(i).getCell(2).toString()+
+                    ", "+workbook.getSheet(sayfaAdi).getRow(i).getCell(3).toString();
+
+            //ucuncu adım key, value haline getirdigimiz satırları mape ekledik
+            excelMap.put(key,value);
+
+        }
+
+        return excelMap;
+    }
+    public static Map<String,String> valuemapOlustur(String path, String sayfaAdi) {
+
+        Map<String,String>excelMap=new HashMap<>();
+        Workbook workbook = null;
+
+        //ilk olarak excel'e ulaşalım
+        try {
+            FileInputStream fis=new FileInputStream(path);
+            workbook= WorkbookFactory.create(fis);
+
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        String key="";
+        String value="";
+
+        int satirSayisi=workbook.getSheet(sayfaAdi).getLastRowNum();
+        for (int i = 0; i <=satirSayisi ; i++) {
+
+            // 2. adım tablodaki hücreleri map'e uygun hale dönüştürmek
+            key=workbook.getSheet(sayfaAdi).getRow(i).getCell(1).toString();
+            value=workbook.getSheet(sayfaAdi).getRow(i).getCell(0).toString();
+
+            //ucuncu adım key, value haline getirdigimiz satırları mape ekledik
+            excelMap.put(key,value);
+
+        }
+
+        return excelMap;
+    }
+
+    public static Cell hucreGetir(String path, String sayfaIsmi, int satir_index, int hucre_index) {
+
+        Cell cell = null;
+
+        try {
+            FileInputStream fileInputStream = new FileInputStream(path);
+            Workbook workbook = WorkbookFactory.create(fileInputStream);
+            cell = workbook.getSheet(sayfaIsmi).getRow(satir_index).getCell(hucre_index);
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return cell;
+    }
 
 
 
