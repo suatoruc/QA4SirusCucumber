@@ -8,5 +8,6 @@ public class ornek {
     public ornek(){
 
         PageFactory.initElements(Driver.getDriver(),this);
+
     }
 }
