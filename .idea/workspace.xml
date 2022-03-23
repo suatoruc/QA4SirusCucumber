@@ -5,38 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6887f0c1-5a75-416e-b4b9-2894ce76bfca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/suat/AutoPracticePages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/suat/DemoGuruPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/suat/DemoQaPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/suat/HerOkuPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/suat/ResortHotelsPages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/AutoPracticeStepDefinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/DemoGuruStepDefinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/DemoQaStepDefinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/ExcelStepDefinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/HerOkuStepDefinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/ResortHotelStepDefinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/datas/ulkeler.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q01.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q010.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q012.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q013.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q02.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q03.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q04.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q05.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q06.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q07.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q08.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q09.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/suat/Q11.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/automationex/AutomationexecPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/automationEx/AutomationExecStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC001_userRegister.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC002_Login_User_with_correct_email_and_password.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC003_Login_User_with_incorrect_email_and_password.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC004_Logout User.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC005_Register_User_with_existing_email.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC006_Contact_Us_Form.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC007_Verify_Test_Cases_Page.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC008_Verify_All_Products_and_product_detail_page.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC009_Search_Product.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC010_Verify_Subscription_in_home_page.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC011_Verify_Subscription_in_Cart_page.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC012_Add_Products_in_Cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC013.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC014.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC015_Place_Order_Register_before_Checkout.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC016_Place_Order_Login_before_Checkout.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC017_Remove_Products_From_Cart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC018_View_Category_Products.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC019_View_&amp;_Cart_Brand_Products.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC020_Search_Products_and_Verify_Cart_After_Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC021_Add review_on_product.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC022_Add_to_cart_from_Recommended_items.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC023_Verify_address_details_in_checkout_page.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC024_Download_Invoice_after_purchase_order.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC025_Verify_Scroll_Up_using_Arrow_button_and_Scroll_Down_functionality.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC026_Verify_ScrollUp_without_Arrow_button_and_ScrollDown_functionality.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/AutoPracticeStepDefinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/AutoPracticeStepDefinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/ExcelStepDefinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/suat/ExcelStepDefinations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/ReUsableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/ReUsableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ornek.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ornek.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinations/suat/AutoPracticeStepDefinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinations/suat/AutoPracticeStepDefinations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinations/suat/DemoQaStepDefinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinations/suat/DemoQaStepDefinations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepdefinations/suat/ExcelStepDefinations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepdefinations/suat/ExcelStepDefinations.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Country.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/GMIBankTextData" beforeDir="false" afterPath="$PROJECT_DIR$/../batc44API/src/test/java/get_http_request/day015/GMIBankTextData" afterDir="false" />
@@ -169,15 +180,15 @@
       <recent name="C:\Users\Suat\IdeaProjects\QA4SirusCucumber\src\test\resources\features\suat" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: Q013">
-    <configuration name="Feature: Q010" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Feature: TC026_Verify_ScrollUp_without_Arrow_button_and_ScrollDown_functionality">
+    <configuration name="Feature: TC022_Add_to_cart_from_Recommended_items" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/suat/Q010.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC022_Add_to_cart_from_Recommended_items.feature" />
       <option name="GLUE" value="stepdefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="QA4SirusCucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: Q010" />
+      <option name="SUGGESTED_NAME" value="Feature: TC022_Add_to_cart_from_Recommended_items" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -189,14 +200,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: Q012" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: TC023_Verify_address_details_in_checkout_page" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/suat/Q012.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC023_Verify_address_details_in_checkout_page.feature" />
       <option name="GLUE" value="stepdefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="QA4SirusCucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: Q012" />
+      <option name="SUGGESTED_NAME" value="Feature: TC023_Verify_address_details_in_checkout_page" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -208,14 +219,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: Q013" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: TC024_Download_Invoice_after_purchase_order" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/suat/Q013.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC024_Download_Invoice_after_purchase_order.feature" />
       <option name="GLUE" value="stepdefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="QA4SirusCucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: Q013" />
+      <option name="SUGGESTED_NAME" value="Feature: TC024_Download_Invoice_after_purchase_order" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -227,14 +238,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: Q11" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: TC025_Verify_Scroll_Up_using_Arrow_button_and_Scroll_Down_functionality" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/suat/Q11.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC025_Verify_Scroll_Up_using_Arrow_button_and_Scroll_Down_functionality.feature" />
       <option name="GLUE" value="stepdefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="QA4SirusCucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: Q11" />
+      <option name="SUGGESTED_NAME" value="Feature: TC025_Verify_Scroll_Up_using_Arrow_button_and_Scroll_Down_functionality" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -246,15 +257,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: TC013 Buton Ekleme Testi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: TC026_Verify_ScrollUp_without_Arrow_button_and_ScrollDown_functionality" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/suat/Q013.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/automationExercise/TC026_Verify_ScrollUp_without_Arrow_button_and_ScrollDown_functionality.feature" />
       <option name="GLUE" value="stepdefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="QA4SirusCucumber" />
-      <option name="NAME_FILTER" value="^TC013 Buton Ekleme Testi$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC013 Buton Ekleme Testi$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: TC013 Buton Ekleme Testi" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: TC026_Verify_ScrollUp_without_Arrow_button_and_ScrollDown_functionality" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -268,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Feature: Q013" />
-        <item itemvalue="Cucumber Java.Scenario: TC013 Buton Ekleme Testi" />
-        <item itemvalue="Cucumber Java.Feature: Q012" />
-        <item itemvalue="Cucumber Java.Feature: Q11" />
-        <item itemvalue="Cucumber Java.Feature: Q010" />
+        <item itemvalue="Cucumber Java.Feature: TC026_Verify_ScrollUp_without_Arrow_button_and_ScrollDown_functionality" />
+        <item itemvalue="Cucumber Java.Feature: TC025_Verify_Scroll_Up_using_Arrow_button_and_Scroll_Down_functionality" />
+        <item itemvalue="Cucumber Java.Feature: TC024_Download_Invoice_after_purchase_order" />
+        <item itemvalue="Cucumber Java.Feature: TC023_Verify_address_details_in_checkout_page" />
+        <item itemvalue="Cucumber Java.Feature: TC022_Add_to_cart_from_Recommended_items" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +298,13 @@
       <workItem from="1647538597944" duration="2412000" />
       <workItem from="1647576182751" duration="4624000" />
       <workItem from="1647580867625" duration="18613000" />
-      <workItem from="1647677192167" duration="18970000" />
+      <workItem from="1647677192167" duration="26168000" />
+      <workItem from="1647717316771" duration="1361000" />
+      <workItem from="1647754893582" duration="31548000" />
+      <workItem from="1647842089181" duration="23403000" />
+      <workItem from="1647892586187" duration="32000" />
+      <workItem from="1647926509749" duration="10210000" />
+      <workItem from="1648012332135" duration="10534000" />
     </task>
     <servers />
   </component>
